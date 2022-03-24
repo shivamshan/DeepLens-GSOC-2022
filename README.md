@@ -9,5 +9,8 @@ Task : Build a model for classifying the images into lenses using PyTorch or Ker
 **Task_1.ipynb** is the corresponding jupyter notebook.
 The **weights** for the final trained model can be found [here](https://drive.google.com/file/d/1-49StFTA2whjhOyktEFV2SEAEj8h7m99/view?usp=sharing).
 
+- **Task 3** -  Learning Mass of Dark Matter Halo</br>
+Task: Using the provided dataset implement a regression algorithm to learn the mapping between lensing images and the lensing dark matter halo mass.</br>
+
 - **Task 4** - Exploring Equivariant Neural Networks</br>
 Task: Use an Equivariant Neural Network of your choice to build a robust and efficient model for binary classification or unsupervised anomaly detection on the provided dataset.
